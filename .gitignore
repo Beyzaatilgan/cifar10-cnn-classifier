@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Apr  1 22:54:14 2026
+
+@author: LENOVO
+"""
+
+data/
+__pycache__/
+*.pyc
+.spyproject/
